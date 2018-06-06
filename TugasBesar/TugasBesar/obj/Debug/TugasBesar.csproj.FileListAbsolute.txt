@@ -1,0 +1,15 @@
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\bin\Debug\TugasBesar.exe.config
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\bin\Debug\TugasBesar.exe
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\bin\Debug\TugasBesar.pdb
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csprojResolveAssemblyReference.cache
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Form1.resources
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Properties.Resources.resources
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.GenerateResource.Cache
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\obj\Debug\TugasBesar.exe
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\obj\Debug\TugasBesar.pdb
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\obj\Debug\TugasBesar.tampil.resources
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\bin\Debug\MySql.Data.dll
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\bin\Debug\MySql.Data.xml
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Insert.resources
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Update.resources
+E:\Tugas\Semester 4\Pemrograman Terstruktur Praktek\Tugas Besar\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Delete.resources
